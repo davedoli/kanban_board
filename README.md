@@ -1,4 +1,4 @@
-# kanban_board 8=D
+# kanban_board
 
 backend = django
 frontend = React
